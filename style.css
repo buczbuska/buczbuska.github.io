@@ -327,3 +327,16 @@ footer a:hover { color: #ffffff; }
   font-size: 0.82rem;
   color: #888;
 }
+
+.funder-badge {
+  font-family: "Arial", sans-serif;
+  font-size: 0.78rem;
+  color: #fff;
+  background: #2a7a2a;
+  padding: 0.15rem 0.55rem;
+  border-radius: 3px;
+  font-weight: bold;
+  letter-spacing: 0.04em;
+}
+
+
